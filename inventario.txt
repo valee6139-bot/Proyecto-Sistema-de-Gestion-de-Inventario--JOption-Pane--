@@ -1,0 +1,2 @@
+pan;panaderia;100
+arroz;organos;100

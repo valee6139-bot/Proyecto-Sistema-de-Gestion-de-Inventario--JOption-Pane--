@@ -1,0 +1,9 @@
+Celular,Dispositivos electricos,24
+Television,Dispositivos electricos,20
+Reloj digital ,Accesorios,10
+Audifonos,Accesorios,26
+Bateria recargable,Accesorios,890
+Pila reloj,Repuestos,32
+Cargador celular ,Repuestos,87
+Funda audifonos,Accesorios,4
+2,2,2
